@@ -1,0 +1,325 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.1)  20 DEC 2019 01:36
+entering extended mode
+**./hw6-1743261.tex
+(hw6-1743261.tex
+LaTeX2e <2019-10-01> patch level 1
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box27
+\@float@everytoks=\toks16
+\@floatcapt=\box28
+)
+(hw6-1743261.aux)
+\openout1 = `hw6-1743261.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box29
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
+)
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\musca\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+<img1-hw6-1743261.png, id=1, 464.937pt x 30.71475pt>
+File: img1-hw6-1743261.png Graphic file (type png)
+<use img1-hw6-1743261.png>
+Package pdftex.def Info: img1-hw6-1743261.png  used on input line 24.
+(pdftex.def)             Requested size: 360.0pt x 23.78351pt.
+<img2-hw6-1743261.png, id=3, 649.82774pt x 48.18pt>
+File: img2-hw6-1743261.png Graphic file (type png)
+<use img2-hw6-1743261.png>
+Package pdftex.def Info: img2-hw6-1743261.png  used on input line 25.
+(pdftex.def)             Requested size: 360.0pt x 26.69168pt.
+[1
+
+{C:/Users/musca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<img3-hw6-1743261.png, id=13, 504.6855pt x 49.3845pt>
+File: img3-hw6-1743261.png Graphic file (type png)
+<use img3-hw6-1743261.png>
+Package pdftex.def Info: img3-hw6-1743261.png  used on input line 35.
+(pdftex.def)             Requested size: 360.0pt x 35.22826pt.
+<img4-hw6-1743261.png, id=14, 588.39825pt x 184.2885pt>
+File: img4-hw6-1743261.png Graphic file (type png)
+<use img4-hw6-1743261.png>
+Package pdftex.def Info: img4-hw6-1743261.png  used on input line 44.
+(pdftex.def)             Requested size: 360.0pt x 112.75606pt.
+ [2 <./img1-hw6-1743261.png> <./img2-hw6-1743261.png> <./img3-hw6-1743261.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+<img5-hw6-1743261.png, id=21, 679.94025pt x 229.45724pt>
+File: img5-hw6-1743261.png Graphic file (type png)
+<use img5-hw6-1743261.png>
+Package pdftex.def Info: img5-hw6-1743261.png  used on input line 51.
+(pdftex.def)             Requested size: 360.0pt x 121.4857pt.
+<img6-hw6-1743261.png, id=22, 488.42474pt x 30.1125pt>
+File: img6-hw6-1743261.png Graphic file (type png)
+<use img6-hw6-1743261.png>
+Package pdftex.def Info: img6-hw6-1743261.png  used on input line 59.
+(pdftex.def)             Requested size: 360.0pt x 22.19559pt.
+[3 <./img4-hw6-1743261.png> <./img5-hw6-1743261.png> <./img6-hw6-1743261.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+<img7-hw6-1743261.png, id=29, 567.92175pt x 29.51025pt>
+File: img7-hw6-1743261.png Graphic file (type png)
+<use img7-hw6-1743261.png>
+Package pdftex.def Info: img7-hw6-1743261.png  used on input line 71.
+(pdftex.def)             Requested size: 360.0pt x 18.70636pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+[4
+
+ <./img7-hw6-1743261.png>]
+<img8-hw7-1743261.png, id=34, 373.99725pt x 184.89075pt>
+File: img8-hw7-1743261.png Graphic file (type png)
+<use img8-hw7-1743261.png>
+Package pdftex.def Info: img8-hw7-1743261.png  used on input line 85.
+(pdftex.def)             Requested size: 360.0pt x 177.98396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--87
+
+ []
+
+[5 <./img8-hw7-1743261.png>]
+<img9-hw7-1743261.png, id=39, 387.849pt x 174.6525pt>
+File: img9-hw7-1743261.png Graphic file (type png)
+<use img9-hw7-1743261.png>
+Package pdftex.def Info: img9-hw7-1743261.png  used on input line 91.
+(pdftex.def)             Requested size: 360.0pt x 162.11334pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+
+ []
+
+<img10-hw7-1743261.png, id=40, 292.6935pt x 81.906pt>
+File: img10-hw7-1743261.png Graphic file (type png)
+<use img10-hw7-1743261.png>
+Package pdftex.def Info: img10-hw7-1743261.png  used on input line 96.
+(pdftex.def)             Requested size: 360.0pt x 100.74252pt.
+<img11-hw7-1743261.png, id=41, 407.121pt x 263.18324pt>
+File: img11-hw7-1743261.png Graphic file (type png)
+<use img11-hw7-1743261.png>
+Package pdftex.def Info: img11-hw7-1743261.png  used on input line 101.
+(pdftex.def)             Requested size: 360.0pt x 232.73444pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--103
+
+ []
+
+[6
+
+ <./img9-hw7-1743261.png> <./img10-hw7-1743261.png>]
+<img12-hw7-1743261.png, id=47, 352.31625pt x 61.4295pt>
+File: img12-hw7-1743261.png Graphic file (type png)
+<use img12-hw7-1743261.png>
+Package pdftex.def Info: img12-hw7-1743261.png  used on input line 106.
+(pdftex.def)             Requested size: 360.0pt x 62.76971pt.
+<img13-hw7-1743261.png, id=48, 360.1455pt x 207.174pt>
+File: img13-hw7-1743261.png Graphic file (type png)
+<use img13-hw7-1743261.png>
+Package pdftex.def Info: img13-hw7-1743261.png  used on input line 107.
+(pdftex.def)             Requested size: 360.0pt x 207.10077pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--109
+
+ []
+
+[7 <./img11-hw7-1743261.png>]
+<img14-hw7-1743261.png, id=54, 442.0515pt x 269.808pt>
+File: img14-hw7-1743261.png Graphic file (type png)
+<use img14-hw7-1743261.png>
+Package pdftex.def Info: img14-hw7-1743261.png  used on input line 114.
+(pdftex.def)             Requested size: 360.0pt x 219.73308pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--116
+
+ []
+
+[8 <./img12-hw7-1743261.png> <./img13-hw7-1743261.png>]
+<img15-hw7-1743261.png, id=60, 299.9205pt x 33.726pt>
+File: img15-hw7-1743261.png Graphic file (type png)
+<use img15-hw7-1743261.png>
+Package pdftex.def Info: img15-hw7-1743261.png  used on input line 119.
+(pdftex.def)             Requested size: 360.0pt x 40.48332pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--121
+
+ []
+
+<img16-hw7-1743261.png, id=61, 307.1475pt x 42.1575pt>
+File: img16-hw7-1743261.png Graphic file (type png)
+<use img16-hw7-1743261.png>
+Package pdftex.def Info: img16-hw7-1743261.png  used on input line 126.
+(pdftex.def)             Requested size: 360.0pt x 49.41475pt.
+<img17-hw7-1743261.png, id=62, 275.22826pt x 32.5215pt>
+File: img17-hw7-1743261.png Graphic file (type png)
+<use img17-hw7-1743261.png>
+Package pdftex.def Info: img17-hw7-1743261.png  used on input line 131.
+(pdftex.def)             Requested size: 360.0pt x 42.53944pt.
+[9 <./img14-hw7-1743261.png> <./img15-hw7-1743261.png> <./img16-hw7-1743261.png
+>] [10 <./img17-hw7-1743261.png>] (hw6-1743261.aux) ) 
+Here is how much of TeX's memory you used:
+ 1644 strings out of 492453
+ 25470 string characters out of 3120076
+ 88482 words of memory out of 3000000
+ 5992 multiletter control sequences out of 15000+200000
+ 7926 words of font info for 28 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,7n,30p,918b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/musca/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mus
+ca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+C:/Users/musca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Users/musca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr17.pfb><C:/Users/musca/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmti10.pfb>
+Output written on hw6-1743261.pdf (10 pages, 311216 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
